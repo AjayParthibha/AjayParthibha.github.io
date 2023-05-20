@@ -91,7 +91,6 @@
 }
 
 .menu .menu-one .input input.range {
-    -webkit-appearance: none;
     height: 3px;
     background-color: rgba(153, 153, 153, 0.664);
     position: relative;
