@@ -1,1 +1,1 @@
-Basic webpage that incorporates JavaScript
+A basic webpage that incorporates JavaScript.
